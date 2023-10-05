@@ -2,7 +2,7 @@
 title: 'le Domain Driven Design (DDD)'
 description: 'Informations et notes sur ce principe de développement'
 pubDate: 'Sept 23 2023'
-heroImage: '/placeholder-hero.jpg'
+heroImage: '/nicolasbonnet/placeholder-ddd.jpg'
 ---
 
 ## Introduction
